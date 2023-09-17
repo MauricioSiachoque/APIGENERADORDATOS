@@ -1,1 +1,1 @@
-# APIRICK
+# APIgenerador
